@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到Ointention的博客
 
-You can use the [editor on GitHub](https://github.com/sujue/sujue-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+初始化页面为空，正在摸索中，精彩内容请稍后...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
